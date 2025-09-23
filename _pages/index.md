@@ -23,7 +23,7 @@ We invite submissions on, but not limited to, the following topics:
 - **AI-based Attack/Defense Simulation.** (1) Graph-based simulation for attack and defense simulation with AI (attack/defense simulation methods with Deep learning, Q learning and Graph based learning). (2) Simulating adversarial attacks against AI systems and developing effective defense strategies.
 - **AI based Red Teaming.** Methodologies and practices for systematically testing and breaking AI models to uncover hidden flaws, biases, and safety risks.
 - **AI Model Attacks and Defenses.** Techniques to exploit vulnerabilities in AI models (e.g., adversarial, model stealing, data extraction attacks) and the ways to mitigate them.
-- AI dependability, Reliability, and Safety
+- **AI dependability, Reliability, and Safety.**  Measures to ensure AI systems remain robust, fault-tolerant, and safe across diverse conditions.
 - **Responsible and Trustworthy AI.** Approaches to building AI that is transparent, fair, and accountable, addressing ethical concerns and fostering user and societal trust.
 - **XAI.** Methods and frameworks that provide transparency and interpretability of AI models, enabling users to understand, trust, and effectively validate AI-driven decisions.
 
