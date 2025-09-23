@@ -5,17 +5,17 @@ permalink: /
 ---
 
 # IEEE PRDC 2025 Workshop on AI Dependability (AID'25)
-**AID'25**---A workshop to bring together researchers and industry practitioners in the field of AI and LLM-based systems. This workshop will be an in-person event at PRDC 2025, taking place on November 4 from 8:00am to 5:00pm. 
+**AID'25**---A workshop to bring together researchers and industry practitioners in the field of AI and LLM-based systems. This workshop will be an in-person event at PRDC 2025, taking place on November 4 from 8:00am to 5:00pm KST.
 
 <h5 style="text-align:center;"><a href="https://prdc2025.hotcrp.com">[click here to submit your manuscript]</a></h5>
 
-## Introduction
+## About the workshop
 The AID'25 workshop provides a forum for researchers and industry practitioners to present and discuss the latest advancements in ensuring the dependability of AI and LLM-based systems. As AI becomes integral to critical infrastructure, its reliability, security, and robustness are paramount.
 
 This workshop will bring together experts from the dependable computing and AI communities to address new challenges in building trustable AI systems. We welcome submissions that explore innovative solutions, case studies, and fundamental research in this rapidly evolving field.
 
 
-## Topics
+## Topics of interest
 We invite submissions on, but not limited to, the following topics:
 - **AI-based Software Vulnerability Detection and Secure Code Generation.** Leveraging AI techniques (e.g., LLMs) to automatically identify vulnerabilities in software and to generate secure, robust code including patches.
 - **AI-based Attack Detection.** Using AI models for detecting attacks and anomalies, such as network intrusion, adversarial attacks, model stealing queries, and so on.
@@ -24,8 +24,8 @@ We invite submissions on, but not limited to, the following topics:
 - **AI based Red Teaming.** Methodologies and practices for systematically testing and breaking AI models to uncover hidden flaws, biases, and safety risks.
 - **AI Model Attacks and Defenses.** Techniques to exploit vulnerabilities in AI models (e.g., adversarial, model stealing, data extraction attacks) and the ways to mitigate them.
 - AI dependability, Reliability, and Safety
-- **Responsible and Trustworthy AI**
-- **XAI**
+- **Responsible and Trustworthy AI.** Approaches to building AI that is transparent, fair, and accountable, addressing ethical concerns and fostering user and societal trust.
+- **XAI.** Methods and frameworks that provide transparency and interpretability of AI models, enabling users to understand, trust, and effectively validate AI-driven decisions.
 
 
 ## Submission Guidelines
