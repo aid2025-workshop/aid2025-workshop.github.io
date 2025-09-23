@@ -1,0 +1,66 @@
+---
+layout: index
+title: Home
+permalink: /
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+
+# profile:
+#   align: right
+#   image: prof_pic.jpg
+#   image_circular: false # crops the image to make it circular
+#   more_info: >
+#     <p>555 your office number</p>
+#     <p>123 your address street</p>
+#     <p>Your City, State 12345</p>
+
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
+
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
+---
+
+<h5 style="text-align:center;"><a href="https://prdc2025.hotcrp.com">[click here to submit your manuscript]</a></h5>
+
+# Introduction
+The AID'25 workshop provides a forum for researchers and industry practitioners to present and discuss the latest advancements in ensuring the dependability of AI and LLM-based systems. As AI becomes integral to critical infrastructure, its reliability, security, and robustness are paramount.
+
+This workshop will bring together experts from the dependable computing and AI communities to address new challenges in building trustable AI systems. We welcome submissions that explore innovative solutions, case studies, and fundamental research in this rapidly evolving field.
+
+
+# Topics
+We invite submissions on, but not limited to, the following topics:
+- **AI-based Software Vulnerability Detection and Secure Code Generation.** Leveraging AI techniques (e.g., LLMs) to automatically identify vulnerabilities in software and to generate secure, robust code including patches.
+- **AI-based Attack Detection.** Using AI models for detecting attacks and anomalies, such as network intrusion, adversarial attacks, model stealing queries, and so on.
+- **LLM-based Rust Translation.** Exploring the use of LLMs to translate code into memory-safe languages like Rust to enhance system security and reliability.
+- **AI-based Attack/Defense Simulation.** (1) Graph-based simulation for attack and defense simulation with AI (attack/defense simulation methods with Deep learning, Q learning and Graph based learning). (2) Simulating adversarial attacks against AI systems and developing effective defense strategies.
+- **AI based Red Teaming.** Methodologies and practices for systematically testing and breaking AI models to uncover hidden flaws, biases, and safety risks.
+- **AI Model Attacks and Defenses.** Techniques to exploit vulnerabilities in AI models (e.g., adversarial, model stealing, data extraction attacks) and the ways to mitigate them.
+- AI dependability, Reliability, and Safety
+- **Responsible and Trustworthy AI**
+- **XAI**
+
+
+# Submission Guidelines
+All submissions must be original, unpublished, and not under review for another conference or journal. Papers should be formatted according to the IEEE conference template and must not exceed **6 pages**, including figures, tables, and references.
+
+All papers will undergo a single-blind peer-review process. Submissions should be made through the PRDC hotcrp submission system.
+
+Submission link: [https://prdc2025.hotcrp.com/](https://prdc2025.hotcrp.com/)
+
+**Important.** Please ensure that your submission addresses the core theme of **AI Dependability** and its relevance to the PRDC community. We look forward to your contributions.
+
+
+# Important Dates
+
+- Abstract submission: September 30, 2025 (AoE)
+- Paper submission: October 7, 2025 (AOE)
+- Author notification: October 21, 2025 (AoE)
+- Camera ready submission: October 25, 2025 (AoE) 
