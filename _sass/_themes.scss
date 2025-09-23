@@ -159,3 +159,13 @@ html[data-theme-setting="light"] {
     display: block;
   }
 }
+
+.header-background .img {
+  background-image: url("/assets/img/2025_kr_002.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center bottom;
+  height: 15em;
+  margin-bottom: 2em;
+  margin-top: -2.7em;  
+}

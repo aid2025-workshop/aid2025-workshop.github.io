@@ -46,7 +46,28 @@ Submission link: [https://prdc2025.hotcrp.com/](https://prdc2025.hotcrp.com/)
 
 
 
-## Organization Chairs
+## Workshop Organizers
+
+### Organization Chairs
 {% include people_horizontal.html name="Prof. Huy Kang Kim" affiliation="Korea University, Republic of Korea" img="/assets/img/HKim.jpg" %} 
 {% include people_horizontal.html name="Prof. Dan Dongseong Kim" affiliation="University of Queensland, Australia" img="/assets/img/DKim.jpeg" %} 
 {% include people_horizontal.html name="Prof. Sangkyun Lee" affiliation="Korea University, Republic of Korea" img="/assets/img/SLee.png" %} 
+<br>
+
+### Program Chairs
+- Prof. Seonghoon Jeong (Sookmyung Women's University, Republic of Korea)
+<br>
+
+### Program Committee
+
+- Prof. Hyoungshick Kim (Sungkyunkwan University, Republic of Korea)
+- Prof. Taekyoung Kwon (Yonsei University, Republic of Korea)
+- Prof. Ah Reum Kang (Pai Chai University, Republic of Korea)
+- Prof. Byung Il Kwak (Korea University, Republic of Korea)
+- Prof. Hyun Min Song (Dankook University, Republic of Korea)
+- Prof. Mee Lan Han (Korea University, Republic of Korea)
+- Prof. Sanghoon Jeon (Kookmin University, Republic of Korea)
+- Dr. Hyunjae Janet Kang (University of Queensland, Australia)
+- Dr. Jeonghyun Lee (National Security Research Institute)
+and to be updated.
+
