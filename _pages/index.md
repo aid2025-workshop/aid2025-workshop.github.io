@@ -40,7 +40,7 @@ Submission link: [https://prdc2025.hotcrp.com/](https://prdc2025.hotcrp.com/)
 
 ## Important Dates
 - Abstract submission: September 30, 2025 (AoE)
-- Paper submission: October 7, 2025 (AOE)
+- Paper submission: October 7, 2025 (AoE)
 - Author notification: October 21, 2025 (AoE)
 - Camera ready submission: October 25, 2025 (AoE) 
 
