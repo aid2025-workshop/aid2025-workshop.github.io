@@ -5,7 +5,7 @@ permalink: /
 ---
 
 # IEEE PRDC 2025 Workshop on AI Dependability (AID'25)
-**AID'25**---A workshop to bring together researchers and industry practitioners in the field of AI and LLM-based systems. This workshop will be an in-person event at PRDC 2025, taking place on November 4 from 8:00am to 5:00pm KST.
+**AID'25**---A workshop to bring together researchers and industry practitioners in the field of AI and LLM-based systems. This workshop will be an in-person event at PRDC 2025, taking place on November 4 from 9:00am to 5:00pm KST.
 
 <h5 style="text-align:center;"><a href="https://prdc2025.hotcrp.com">[click here to submit your manuscript]</a></h5>
 
