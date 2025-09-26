@@ -67,7 +67,7 @@ Submission link: [https://prdc2025.hotcrp.com/](https://prdc2025.hotcrp.com/)
 - Prof. Hyun Min Song (Dankook University, Republic of Korea)
 - Prof. Mee Lan Han (Korea University, Republic of Korea)
 - Prof. Sanghoon Jeon (Kookmin University, Republic of Korea)
-- Dr. Hyunjae Janet Kang (University of Queensland, Australia)
+- Dr. Janet Hyunjae Kang (University of Queensland, Australia)
 - Dr. Jeonghyun Lee (National Security Research Institute)
 - Dr. Seungjin Ryu (National Security Research Institute)
 - and to be updated.
