@@ -70,5 +70,5 @@ Submission link: [https://prdc2025.hotcrp.com/](https://prdc2025.hotcrp.com/)
 - Dr. Janet Hyunjae Kang (University of Queensland, Australia)
 - Dr. Jeonghyun Lee (National Security Research Institute)
 - Dr. Seungjin Ryu (National Security Research Institute)
-- and to be updated.
-
+- Prof. Mengmeng Ge (Monash University, Australia)
+- Prof. Ke He (University of Christchurch, New Zealand)
