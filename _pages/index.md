@@ -62,6 +62,7 @@ Submission link: [https://prdc2025.hotcrp.com/](https://prdc2025.hotcrp.com/)
 
 - Prof. Hyoungshick Kim (Sungkyunkwan University, Republic of Korea)
 - Prof. Taekyoung Kwon (Yonsei University, Republic of Korea)
+- Prof. Jiyoung Woo (Soonchunhyang University)
 - Prof. Ah Reum Kang (Pai Chai University, Republic of Korea)
 - Prof. Byung Il Kwak (Korea University, Republic of Korea)
 - Prof. Hyun Min Song (Dankook University, Republic of Korea)
