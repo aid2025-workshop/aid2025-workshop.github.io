@@ -7,7 +7,9 @@ nav_order: 1
 ---
 
 
-November 4, 2025 / location: TBD
+November 4, 2025 / location: ST Center, Seoul, Korea
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d791.326472554206!2d127.03074799999999!3d37.500703!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca157de00cbb3%3A0xe5266ee55f1d179e!2z7ZWc6rWt6rO87ZWZ6riw7Iig7ZqM6rSA!5e0!3m2!1sko!2skr!4v1761018043335!5m2!1sko!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 This workshop is planned as a one-day event featuring invited talks from leading researchers, peer-reviewed paper presentations, a specialized session for Korea R&D result sharing session and a panel discussion. See the workshop program schedule below.
 
