@@ -13,16 +13,27 @@ November 4, 2025 / location: ST Center, Seoul, Korea
 
 This workshop is planned as a one-day event featuring invited talks from leading researchers, peer-reviewed paper presentations, a specialized session for Korea R&D result sharing session and a panel discussion. See the workshop program schedule below.
 
+
+**Update on Oct 24** We are excited to announce that our program is fully integrated into the main conference's technical program! All 9 selected AID Workshop papers will be presented in a dedicated technical session open to all conference attendees.
+
+This year's program features 9 high-quality, peer-reviewed papers divided into two specialized sessions:
+
+**Session I: System Dependability**. This session focuses on the robustness, verification, and simulation of dependable systems, including research on cyber-deception, robustness evaluation, and attack path modeling.
+
+**Session II: LLM-Driven Dependability**. This session dives into the role of Large Language Models in security, featuring work on automated vulnerability repair, forensic analysis, and autonomous security testing frameworks.
+
+Each presentation is allotted a 20-minute slot, structured as a 15-minute talk followed by a 5-minute Q&A session.
+
 | **Time (KST)**{: .h5} | **Event**{: .h5} |
-|        :-----:           |                    :-----: |
-| 09:00--09:20             | Opening remark for AID'25                   |
-| 09:20--10:00             | Invited talk                                |
-| 10:15--11:00(45 mins)    | Technical session 1                         |
-| 11:05--11:50 (45 mins)   | Technical session 2                         |
-| 11:50--14:00             | Lunch                                       |
-| 14:00--14:45 (45 mins)   | Technical session 3                         |
-| 14:50--15:35 (45 mins)   | Panel discussion                            |
-| 15:40--16:40 (60 mins)   | Special session - IITP R&D research sharing |
-| 16:40--17:00 (20 mins)   | Close remark                                |
+| :-----: | :-----: |
+| 09:00--09:10  | Opening remark for AID'25 |
+| 09:10--10:50  | AID Workshop Session I---System Dependability |
+| 11:10--12:30  | AID Workshop Session II---LLM-Driven Dependability |
+| 12:30--14:00  | Lunch |
+| 14:00--15:00  | PRDC session |
+| 15:10--16:00  | AID Workshop Keynote---"How to write secure programs with LLMs?" *Prof. Hyoungshick Kim (Sungkyunkwan University)*
+| 16:30--17:30  | PRDC session |
+| 18:30--20:00	| Banquet |
+
 {: .table}
 {: .table-striped}
