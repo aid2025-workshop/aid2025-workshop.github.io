@@ -8,7 +8,7 @@ nav_order: 1
 
 ## Regular paper
 
-### Robustness Evaluation under RGB-Camera Attacks in CARLA: A Systematic Evaluation of Color Modes and Attack Types
+### Robustness Evaluation under RGB-Camera Attacks in CARLA: A Systematic Evaluation of Color Modes and Attack Types 
 
 Yufeng Lin (The University of Queensland); Sangmin Park (Korea University); Hyunjae Kang (The University of Queensland); Huy Kang Kim (Korea University); Dan Dongseong Kim (The University of Queensland)
 
@@ -54,4 +54,20 @@ Hyo Sun Lee, Min Geun Song, Huy Kang Kim (Korea University)
 
 ## R&D track
 
-TBD
+### Toward Dependability Simulation for Intelligent Transportation Systems in Connected Vehicle Environments
+
+Saehoon Oh, Sangbeom Park, Gang Min Kim, Huy Kang Kim (Korea University)
+
+**Abstract.** The Intelligent Transportation System for Connected Vehicles (ITS for CV) integrates diverse assets such as vehicles, unmanned aerial vehicles (UAVs), roadside units (RSUs), and central servers to improve traffic efficiency and public safety via real-time communication and coordination. However, increased interconnectivity introduces potential vulnerabilities across communication, control, and sensing layers, making it challenging to assess system-level mission impacts against cyber–physical attacks. This paper presents a simulation-based framework to evaluate dynamic attack–defense interactions. The proposed framework integrates threat database construction, scenario modeling, simulation environment development, and impact-based evaluation to enable quantitative assessment of mission degradation. Current progress includes the development of a simulator integrated testbed, and mapping of attack and defense techniques to standardized frameworks. Future work will focus on autonomous attacker and defender agent training using deep reinforcement learning and hardware-in-the-loop (HIL) validation for real-world applicability.
+
+### Dependable Code Repair with LLMs: AI-Driven Vulnerability Detection and Automated Patching
+
+Sungmin Han (Korea University); Hyoungshick Kim, Hojoon Lee (Sungkyunkwan University); Hyungon Moon (Ulsan National Institute of Science and Technology (UNIST)); Yuseok Jeon (Korea University); Ho Bae (Ewha Womans University); Donghyun Yeo (AI SPERA Inc.); Gail-Joon Ahn (Arizona State University); Sangkyun Lee (Korea University)
+
+**Abstract.** The rapid proliferation of software vulnerabilities has created an urgent need for intelligent, automated methods to detect and mitigate security flaws at scale. Traditional vulnerability analysis depends heavily on manual inspection and domain-specific expertise, which are increasingly inadequate in the era of generative AI–driven code development. This research proposes an AI-based automated vulnerability detection and secure code generation framework that leverages multi-modal datasets, including source code and binaries, to achieve end-to-end automation across the vulnerability lifecycle: detection, patch generation, and validation. The system integrates explainable AI (XAI)–based vulnerability cause analysis, generative patch synthesis, system-level defensive code generation, Rust-based memory safety transformation, and differential privacy mechanisms for model confidentiality. Developed through a Korea-U.S. joint research initiative, this project aims to establish an internationally deployable platform for trustworthy and privacy-preserving AI-driven software security. The proposed research contributes both foundational methods and operational tools toward self-healing, explainable, and secure-by-design software ecosystems.
+
+### Toward an Autonomous Purple Teaming Framework for Security and Safety in Large Language Models
+
+Leo Hyun Park, YoonSik Kim, Eunbi Hwang, Sangsoo Han (Yonsei University); Hyoungshick Kim (Sungkyunkwan University); Taekyoung Kwon (Yonsei University)
+
+**Abstract.** Large Language Models (LLMs) have rapidly advanced in reasoning capability and accessibility, driving their deployment across diverse applications. Yet this progress has also widened the surface for safety and security vulnerabilities. Adversaries can exploit prompt diversity, dialog memory, or multimodal inputs to induce unsafe or confidential outputs, while continual fine-tuning and third-party integration render static assurance infeasible. This paper introduces our ongoing national R&D project on developing the AutoPT Framework---an Autonomous Purple Teaming architecture that extends the collaborative principles of purple teaming toward self-adaptive, continuously verifiable LLM assurance. AutoPT unifies autonomous adversarial exploration and adaptive defensive reinforcement through two co-evolving agents. The red module, AutoPT-Red, employs coverage-guided fuzzing and internal measurement metrics to autonomously uncover vulnerabilities. The blue module, AutoPT-Blue, performs self-healing adaptation by updating guardrails and detecting integrity or confidentiality violations using embedding-based feedback. Preliminary case studies on jailbreak fuzzing and backdoor-poisoning defense validate the feasibility of this closed-loop, self-adapting architecture. As part of a broader national initiative, this work lays the conceptual and technical foundation for transitioning industrial purple teaming into a fully autonomous, scalable, and measurable assurance paradigm for generative AI systems.
