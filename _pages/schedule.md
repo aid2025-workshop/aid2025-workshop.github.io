@@ -60,3 +60,6 @@ Each presentation is allotted a 20-minute slot, structured as a 15-minute talk f
 **11:50--12:10** [Dependable Code Repair with LLMs: AI-Driven Vulnerability Detection and Automated Patching]({% link _pages/program.md %}#dependable-code-repair-with-llms-ai-driven-vulnerability-detection-and-automated-patching)
 
 **12:10--12:30** [Toward an Autonomous Purple Teaming Framework for Security and Safety in Large Language Models]({% link _pages/program.md %}#toward-an-autonomous-purple-teaming-framework-for-security-and-safety-in-large-language-models)
+
+### Keynote
+**15:10--16:00** How to write secure programs with LLMs?
