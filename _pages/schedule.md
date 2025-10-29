@@ -3,7 +3,7 @@ layout: page
 permalink: /schedule/
 title: Schedule
 nav: true
-nav_order: 1
+nav_order: 3
 ---
 
 
@@ -35,6 +35,8 @@ This year's program features 9 high-quality, peer-reviewed papers divided into t
 {: .table-striped}
 
 
+<br>
+
 ------
 
 ## Presentation schedule
@@ -62,4 +64,4 @@ Each presentation is allotted a 20-minute slot, structured as a 15-minute talk f
 **12:10--12:30** [Toward an Autonomous Purple Teaming Framework for Security and Safety in Large Language Models]({% link _pages/program.md %}#toward-an-autonomous-purple-teaming-framework-for-security-and-safety-in-large-language-models)
 
 ### Keynote
-**15:10--16:00** How to write secure programs with LLMs?
+**15:10--16:00** [How to write secure programs with LLMs?]({% link _pages/keynote.md %})
