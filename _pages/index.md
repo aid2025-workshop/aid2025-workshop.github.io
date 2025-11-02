@@ -9,6 +9,8 @@ permalink: /
 
 <!-- <h5 style="text-align:center;"><a href="https://prdc2025.hotcrp.com">[click here to submit your manuscript]</a></h5> -->
 
+<img alt="AID'25 Workshop logo" src="assets/img/aid-main-2025.png" alt="Drawing" style="margin-left: 20px; width: 40%;" align="right"/>
+
 ## About the workshop
 The AID'25 workshop provides a forum for researchers and industry practitioners to present and discuss the latest advancements in ensuring the dependability of AI and LLM-based systems. As AI becomes integral to critical infrastructure, its reliability, security, and robustness are paramount.
 
