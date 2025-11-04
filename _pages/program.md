@@ -44,6 +44,10 @@ Minseo Ju (Department of Software Convergence, Seoul Women’s University); Hyun
 
 **Abstract.** AI-based code generation tools significantly enhance development productivity, but the code modifications proposed by generative AI are not always safe or consistent with the intended objectives. Even if AI-based code generation tools perform code modifications based on prompts or user-defined goals, the entity that holds the actual responsibility for the impact of the generated code on users is not the code generation tool itself, but the developer who provides the prompts and goals. Based on this situation, this study considered that the important issue for improving the functionality of dependency assurance in AI-based code generation tools is how to implement human approval and intervention. In this study, we analyzed the traits (features) of AI-generated code, presented them as vectorized values, and designed and implemented an interface that allows developers to make intuitive decisions by visualizing them. When using this tool, developers can utilize additional visualized information during the process of reviewing code changes, allowing them to consider the impact of their decisions while using AI-based code generation tools. The main contribution of this study lies in the conceptual design and implementation of providing visualized importance information of generated code changes to improve the user experience of utilizing code generation tools.
 
+<div class="col-sm mt-3 mt-md-0">
+    {% include video.liquid path="assets/video/Ju-et-al-demo-video.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+</div>
+
 
 ### An approach to creating the optimal attack path based on reinforcement learning
 
